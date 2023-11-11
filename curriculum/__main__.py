@@ -64,7 +64,7 @@ def main():
         else:
             print("Debe ser 1, 2, 3 o 0 para salir")
         
-        #Esta opcion no logré que funcionara
+        #Esta opcion no logré que funcionara. Por es lo dejo comenado
         '''mensaje_opcion = int(input("desea continuar: "))
         while True:
             
